@@ -1,0 +1,36 @@
+#SCRIPT VER. 1.0
+VMEA HEFAN//algorithm
+LFL//cost function
+/../../data/162b05/162b05.net//topology
+/../../data/162b05/162b05.con//connections
+//start solution
+//VWaysDb
+162b05_res//result files
+162b05_res//fitness tracking file
+2//Clone repetations
+4//Init shortest ways
+1//Top individuals
+allowed//Allow exceed link capacity
+10.000000//Exceed link capacity penalty
+10800//max time
+1.000000//glue infections
+1.000000//template fitness check
+500//pattern pool size
+0//the same pattern check
+0//preferred pattern length
+3//minimal pattern length
+0.000000//length or entrophy at pattern number check
+1.000000//use templates at virus init
+1100//virus generations
+45//virus population
+1.0000//virus population reduction
+0.0900//virus prob cut
+0.1500//virus prob splice
+0.1000//virus prob mutation
+0.1000//virus prob rem gene
+0.1000//virus prob add gene
+0.5000//virus prob low cross
+0.4000//virus prob low mut
+0.000000//virus prob init mut
+10//virus virginity rounds
+-2//CT number strategy (positive-static number of CTs -1=classic -2=active -3=memo -4=total memo)

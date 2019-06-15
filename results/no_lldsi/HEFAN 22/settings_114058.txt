@@ -1,0 +1,29 @@
+#SCRIPT VER. 1.0
+HEFAN 2.2//algorithm
+LFL//cost function
+/../../data/114058/114058.net//topology
+/../../data/114058/114058.con//connections
+//start solution
+//VWaysDb
+114058_res//result files
+summary.txt//fitness tracking file
+2//Clone repetations
+4//Init shortest ways
+1//Top individuals
+allowed//Allow exceed link capacity
+10.000000//Exceed link capacity penalty
+0.000000//Flow increase
+0.000000//Flow increase every x generations
+0.90000000//High level crossing
+0.00000000//High level mutation
+0.10000000//Low level crossing
+0.40000000//Low level mutation
+0.50000000//High level crossing unordered
+1000//Population size
+0.000000//Generation number
+10800//Time restriction
+0.000000//Brainstorm radius
+0.000000//Brainstorm turn on perc
+0.000000//Brainstorm duration
+0.000000//Brainstorm turning off
+5000.000000//Brainstorm min break

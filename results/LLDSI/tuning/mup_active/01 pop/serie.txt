@@ -1,0 +1,37 @@
+#SCRIPT VER. 1.0
+C:\Projekty\projekty_pwr\vmga_hefan\CONet\CONetAdmin\release\//root dir
+z_pop_num_020_summary.txt\\SUMMFILE
+settings_114d07_00020.txt\\2
+settings_162b05_00020.txt\\2
+settings_104059_00020.txt\\2
+settings_128083_00020.txt\\2
+settings_144088_00020.txt\\2
+settings_g120080_00020.txt\\2
+z_pop_num_030_summary.txt\\SUMMFILE
+settings_114d07_00030.txt\\2
+settings_162b05_00030.txt\\2
+settings_104059_00030.txt\\2
+settings_128083_00030.txt\\2
+settings_144088_00030.txt\\2
+settings_g120080_00030.txt\\2
+z_pop_num_045_summary.txt\\SUMMFILE
+settings_114d07_00045.txt\\2
+settings_162b05_00045.txt\\2
+settings_104059_00045.txt\\2
+settings_128083_00045.txt\\2
+settings_144088_00045.txt\\2
+settings_g120080_00045.txt\\2
+z_pop_num_070_summary.txt\\SUMMFILE
+settings_114d07_00070.txt\\2
+settings_162b05_00070.txt\\2
+settings_104059_00070.txt\\2
+settings_128083_00070.txt\\2
+settings_144088_00070.txt\\2
+settings_g120080_00070.txt\\2
+z_pop_num_100_summary.txt\\SUMMFILE
+settings_114d07_00100.txt\\2
+settings_162b05_00100.txt\\2
+settings_104059_00100.txt\\2
+settings_128083_00100.txt\\2
+settings_144088_00100.txt\\2
+settings_g120080_00100.txt\\2

@@ -1,0 +1,37 @@
+C:\z_mine\research\MEMO muppets\program\hefan.exe\\PROGRAM
+C:\z_mine\research\MEMO muppets\tuning\mup_active\06 llmut\\DIR
+z_pop_num_2000_summary.txt\\SUMMFILE
+settings_114d07_2000.txt\\2
+settings_162b05_2000.txt\\2
+settings_104059_2000.txt\\2
+settings_128083_2000.txt\\2
+settings_144088_2000.txt\\2
+settings_g120080_2000.txt\\2
+z_pop_num_3000_summary.txt\\SUMMFILE
+settings_114d07_3000.txt\\2
+settings_162b05_3000.txt\\2
+settings_104059_3000.txt\\2
+settings_128083_3000.txt\\2
+settings_144088_3000.txt\\2
+settings_g120080_3000.txt\\2
+z_pop_num_4000_summary.txt\\SUMMFILE
+settings_114d07_4000.txt\\2
+settings_162b05_4000.txt\\2
+settings_104059_4000.txt\\2
+settings_128083_4000.txt\\2
+settings_144088_4000.txt\\2
+settings_g120080_4000.txt\\2
+z_pop_num_5000_summary.txt\\SUMMFILE
+settings_114d07_5000.txt\\2
+settings_162b05_5000.txt\\2
+settings_104059_5000.txt\\2
+settings_128083_5000.txt\\2
+settings_144088_5000.txt\\2
+settings_g120080_5000.txt\\2
+z_pop_num_6000_summary.txt\\SUMMFILE
+settings_114d07_6000.txt\\2
+settings_162b05_6000.txt\\2
+settings_104059_6000.txt\\2
+settings_128083_6000.txt\\2
+settings_144088_6000.txt\\2
+settings_g120080_6000.txt\\2

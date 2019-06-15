@@ -1,0 +1,36 @@
+#SCRIPT VER. 1.0
+ISLAND_MODEL//algorithm
+LFL//cost function
+/../../data/g120b00/g120b00.net//topology
+/../../data/g120b00/g120b00.con//connections
+//start solution
+//VWaysDb
+g120b00_res//result files
+g120b00_res//fitness tracking file
+2//Clone repetations
+4//Init shortest ways
+1//Top individuals
+allowed//Allow exceed link capacity
+10.000000//Exceed link capacity penalty
+10800//max time
+2//linkage generation (0-nolinkage; 1-at migration; 2-at best improvement)
+500//pattern pool size
+3//minimal pattern length
+70//migration freq
+800//population size
+0.50000000//High level crossing
+0.20000000//High level mutation
+0.50000000//Low level crossing
+0.40000000//Low level mutation
+0.50000000//High level crossing unordered
+-2//CT number strategy (positive-static number of CTs -1=classic -2=active -3=memo -4=total memo)
+
+
+
+
+
+
+
+
+
+

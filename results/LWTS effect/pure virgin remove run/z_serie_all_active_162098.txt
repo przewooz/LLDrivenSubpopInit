@@ -1,0 +1,4 @@
+C:\z_mine\research\MEMO muppets\z_init_with_ct_mod\z_research_LWTS\program\hefan.exe\\PROGRAM
+C:\z_mine\research\MEMO muppets\z_init_with_ct_mod\z_research_LWTS\mup_active\\DIR
+z_active_summary_162098.txt\\SUMMFILE
+settings_162098.txt\\100
